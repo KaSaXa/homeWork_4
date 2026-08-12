@@ -58,9 +58,9 @@ public class Main {
                     System.out.println("Вагон полностью забит");
                 }
 //task 7
-                byte one = 36;
-                byte two = 54;
-                byte three = 4;
+                int one = 36;
+                int two = 54;
+                int three = 4;
 
                 if (one >= two && one >= three) {
                     System.out.println("Наибольшее число: " + one);
